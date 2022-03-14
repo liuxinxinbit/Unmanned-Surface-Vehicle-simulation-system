@@ -5,4 +5,4 @@
 #Buoyancy system
 ## <div align="center">Buoyancy</div>
 
-<p align="left"><img width="800" src="[./Buoyancy_system.png](https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/Buoyancy_system.png)"></p>
+<p align="left"><img width="800" src="./Buoyancy_system.png?raw=true"></p>
