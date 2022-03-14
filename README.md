@@ -38,12 +38,13 @@ Buoyancy
 <details open>
 <summary>ToDoList</summary>
 
-* [Simulation of the marine environment](https://baidu.com)&nbsp; 🚀 Done
+* [Simulation of the marine environment](https://baidu.com)&nbsp; 🚀 (>10km*10km)Done
 * [weather simulation](https://baidu.com)&nbsp; 🚀 Done
 * [GPS simulation](https://baidu.com)&nbsp; 🚀 Done
 * [IMU simulation](https://baidu.com)&nbsp; 🚀 Done
+* [Perception sensor simulation (camera)](https://baidu.com)&nbsp; 🚀 Done
 * [map drawing](https://baidu.com)&nbsp; 🚀 To be done
-* [Perception sensor simulation (camera, lidar, marine radar)](https://baidu.com)&nbsp; 🚀 To be done
+* [Perception sensor simulation (lidar, marine radar)](https://baidu.com)&nbsp; 🚀 To be done
 * [Back-end data monitoring, recording and analysis module](https://baidu.com)&nbsp; 🚀 To be done
 * [Mission scene construction](https://baidu.com)&nbsp; 🚀 To be done
 
