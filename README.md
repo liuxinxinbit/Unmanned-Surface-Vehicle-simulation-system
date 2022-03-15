@@ -38,7 +38,7 @@ Buoyancy
 <details open>
 <summary>ToDoList</summary>
 
-* [Simulation of the marine environment](https://baidu.com)&nbsp; 🚀 (>10km*10km)Done
+* [Simulation of the marine environment](https://baidu.com)&nbsp; 🚀 (>20km*20km) Done
 * [weather simulation](https://baidu.com)&nbsp; 🚀 Done
 * [GPS simulation](https://baidu.com)&nbsp; 🚀 Done
 * [IMU simulation](https://baidu.com)&nbsp; 🚀 Done
