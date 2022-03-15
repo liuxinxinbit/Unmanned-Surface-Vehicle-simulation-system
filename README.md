@@ -34,6 +34,8 @@ Buoyancy
 
 <p align="left"><img width="800" src="https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/infoflow_2022-3-12_19-20-15.png?raw=true"></p>
 
+## <div align="center">Gnss imu compass acceleration speed control</div>
+<p align="left"><img width="800" src="https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/gnss+imu+compass.png?raw=true"></p>
 
 <details open>
 <summary>ToDoList</summary>
