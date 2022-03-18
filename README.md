@@ -1,5 +1,5 @@
 # Unmanned Surface Vehicle simulation system
- Unmanned Surface Vehicle simulation system for the development of driverless system on USV
+ Unmanned Surface Vehicle simulation system for the development of driverless system on USV. 
  This simulator uses Unreal 4 to build a test environment for Unmanned Surface Vehicles (USV). 
 
 ## <div align="center">Buoyancy system</div>
@@ -8,7 +8,7 @@ Buoyancy
 <p align="left"><img width="800" src="https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/Buoyancy_system.png?raw=true"></p>
 <p align="left"><img width="800" src="https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/1.jpg?raw=true"></p>
 <p align="left"><img width="800" src="https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/2.gif?raw=true"></p>
-<p align="left"><img width="800" src="https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/2.gif?raw=true"></p>
+<p align="left"><img width="800" src="https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/3.gif?raw=true"></p>
 <p align="left"><img width="800" src="https://github.com/liuxinxinbit/Unmanned-Surface-Vehicle-simulation-system/blob/main/4.gif?raw=true"></p>
 
 ## <div align="center">Marine environment</div>
